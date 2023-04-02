@@ -26,3 +26,5 @@ sign detection, which helps the vehicle read, understand, and obey all traffic r
 the government. Since all governments have different traffic rules and designs for traffic
 signs, we agreed on a starting point dataset, the German benchmark. As the research proceeds,
 we will be adding more countries and eventually reach international functionality. 
+
+I use these codes to teach my peers about deep learning in the Autonomous Vehicles Club, and I hope they will be of use to you as well.
